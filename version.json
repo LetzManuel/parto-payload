@@ -1,0 +1,7 @@
+{
+  "version": "0.22.1",
+  "notes": [
+    "Privacy: customer names and customer-specific values were removed from hints and examples in the app. Every release is now checked automatically against the customer files before it is published, and stops if any customer value would become public."
+  ],
+  "builtAt": "2026-11-28T15:26:07.827Z"
+}
